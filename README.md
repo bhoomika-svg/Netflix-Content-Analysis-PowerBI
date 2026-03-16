@@ -48,4 +48,4 @@ Netflix Titles Dataset
 
 ## Power BI File
 Download the Power BI dashboard file from this repository:
-Netflix_Movies_TV_Show.pbix
+![Netflix-Content-Analysis-PowerBI](Dashboard/Netflix_Movies_TV_Show.pbix)
